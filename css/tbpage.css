@@ -1,0 +1,35 @@
+body{
+    background-color:aquamarine;
+}
+
+div{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    box-shadow:gray;
+    
+    
+}
+a{
+    text-decoration: none;
+}
+#section
+{
+    margin: 50px;
+
+}
+.image{
+    float: right;
+}
+h4:hover
+{
+    color: black;
+    
+}
+h4:active{
+    color: black;
+}
